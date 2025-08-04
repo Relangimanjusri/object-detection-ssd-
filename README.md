@@ -25,5 +25,3 @@ Install using:
 ```bash
 pip install opencv-python imutils numpy
 
-HOW TO RUN:
-python object_detection.py
